@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c414071a47411394ebc0f123d2754a06
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - winSound: {fileID: 8300000, guid: a2d2f6b0be1044a8aa50a2242898007b, type: 3}
+  - cellPrefab: {fileID: -927199367670048503, guid: 46343425c2eef44398d93b235cc6378a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
